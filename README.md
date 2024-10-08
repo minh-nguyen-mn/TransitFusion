@@ -1,5 +1,4 @@
-# TransitFusion
-TransitFusion - Seamless Multi-Modal Travel Planning
+# TransitFusion - Seamless Multi-Modal Travel Planning
 
 ## Required Equipment
 To develop TransitFusion, I will need a mobile device (iOS or Android) for
