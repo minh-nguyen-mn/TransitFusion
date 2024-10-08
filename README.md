@@ -10,8 +10,7 @@ required for transportation data that lacks API access.
 
 ## Problem Formulation
 Planning complex trips involving multiple modes of transportation, such as
-buses, flights, and local transit systems, often requires navigating multiple plat-
-forms. Travelers face confusion and delays when they need to switch between
+buses, flights, and local transit systems, often requires navigating multiple platforms. Travelers face confusion and delays when they need to switch between
 websites, especially when standard tools like Google Maps don’t fully support
 the journey. This project aims to solve this logistical problem by consolidating
 transportation schedules from various sources into a single mobile app. The
@@ -42,18 +41,15 @@ and a real-time notification system for delays or schedule changes.
 TransitFusion builds on existing systems like Google Maps and Rome2Rio, both
 of which offer multi-modal travel solutions but face significant limitations in
 small towns and across international borders. While Rome2Rio consolidates
-some travel data, it lacks real-time updates and complete coverage, particu-
-larly in regions where official APIs are unavailable. This project addresses
+some travel data, it lacks real-time updates and complete coverage, particularly in regions where official APIs are unavailable. This project addresses
 those gaps by integrating web scraping and real-time notifications to provide
 more comprehensive and dynamic coverage of transportation options. It also
 draws from several key works in multi-modal journey planning. Aditjandra et
 al.’s “A Multi-Modal International Journey Planning System: A Case Study
 of WISETRIP” (2009) highlighted challenges in integrating international travel
 data, which TransitFusion tackles through real-time data handling. Ali and
-Jiang’s “Traveling Itinerary Problem in a Scheduled Multimodal Transporta-
-tion Network” (2023) further illustrates the complexity of fixed-sequence city
-travel, which TransitFusion resolves by offering flexible, dynamic itinerary up-
-dates. Lastly, Potthoff and Sauer’s “Efficient Algorithms for Fully Multimodal
+Jiang’s “Traveling Itinerary Problem in a Scheduled Multimodal Transportation Network” (2023) further illustrates the complexity of fixed-sequence city
+travel, which TransitFusion resolves by offering flexible, dynamic itinerary updates. Lastly, Potthoff and Sauer’s “Efficient Algorithms for Fully Multimodal
 Journey Planning” (2022) provide critical insights that inform the algorithms
 TransitFusion uses to optimize travel plans.
 
